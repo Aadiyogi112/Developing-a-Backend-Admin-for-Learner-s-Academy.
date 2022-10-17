@@ -52,17 +52,17 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 
 ## How to run the program
-•	clone project
+•	clone project. Install Mysql server and do step 2.
 
-•	Import the “database\database.sql” file to your database administration tool.
+•	Import the “database\database.sql” file to your database administration tool. After this file is imported you will see the tables in DB
 
 •	Go to “\src\main\webapp\META-INF\context.xml” file and open it.
 
 •	Edit the database’ properties such as username, password and driverClassName to be suit to your database administration tool.
 
-•	Now run program on a server.
+•	Add Apache tomcat server to your Eclipse project by intalling and selectin the path for tomcat server folder. Now run program on a server.
 
-•	To login you must enter admin for both username and password.
+•	To login you must enter "admin" for both username and password.
 
 Screenshots:
 
